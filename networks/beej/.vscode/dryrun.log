@@ -1,0 +1,22 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/mbhotvaw/Mustafa/GeneralRepo/networks/beej'
+gcc -Wall -Wextra -o broadcaster broadcaster.c
+gcc -Wall -Wextra -o client client.c
+ 
+gcc -Wall -Wextra -o getip getip.c
+gcc -Wall -Wextra -o ghbn ghbn.c
+ 
+gcc -Wall -Wextra -o ieee754 ieee754.c
+gcc -Wall -Wextra -o listener listener.c
+gcc -Wall -Wextra -o pack pack.c
+gcc -Wall -Wextra -o pack2 pack2.c
+gcc -Wall -Wextra -o poll poll.c
+gcc -Wall -Wextra -o pollserver pollserver.c
+gcc -Wall -Wextra -o select select.c
+gcc -Wall -Wextra -o selectserver selectserver.c
+gcc -Wall -Wextra -o server server.c
+gcc -Wall -Wextra -o showip showip.c
+gcc -Wall -Wextra -o talker talker.c
+gcc -Wall -Wextra -o telnot telnot.c
+make: Leaving directory `/Users/mbhotvaw/Mustafa/GeneralRepo/networks/beej'
+ 

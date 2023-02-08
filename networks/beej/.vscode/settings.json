@@ -1,0 +1,10 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "*.scm": "scheme",
+        "inet.h": "c",
+        "socket.h": "c",
+        "netdb.h": "c",
+        "stdio.h": "c"
+    }
+}
